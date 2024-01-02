@@ -8,7 +8,7 @@ See the section-by-section guide to the paper [here](./GUIDE.md).
 
 ### Progress
 
-- [ ] 1. Introduction
+- [X] [1. Introduction](./GUIDE.md#1-introduction)
 - [ ] 2. The Theory: Nets without Circles
 - [ ] 3. The Theory: Nets with Circles
 - [ ] 4. Consequences
