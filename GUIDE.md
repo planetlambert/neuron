@@ -174,6 +174,31 @@ The final paragraph briefly introduces the idea of neural nets containing circle
 
 ## 2. The Theory: Nets without Circles
 
+### Final Assumptions
+
+Section 1 started with the sentence,
+
+> Theoretical neurophysiology rests on certain cardinal
+assumptions.
+
+and section 2 begins with,
+
+> We shall make the following physical assumptions for our calculus.
+
+which essentially summarizes our assumptions from section 1.
+
+As [noted by C.J. Wilson](https://marlin.life.utsa.edu/mcculloch-and-pitts.html) the major thing to take note of in these assumptions, is that in combination they allow McCulloch and Pitts to work in discrete time periods, specifically that of the synaptic delay.
+
+### Notation Hell
+
+Ok, now to the hardest part of the paper - understanding the notation. The notation in the paper is drawn from two primary sources: *[Principia Mathematica](https://lesharmoniesdelesprit.files.wordpress.com/2015/11/whiteheadrussell-principiamathematicavolumei.pdf)* by [Alfred North Whitehead](https://en.wikipedia.org/wiki/Alfred_North_Whitehead) and [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell), and *[Logical Syntax of Language](https://altexploit.files.wordpress.com/2017/09/rudolf-carnap-logical-syntax-of-language-international-library-of-philosophy-2001.pdf)* by [Rudolf Carnap](https://en.wikipedia.org/wiki/Rudolf_Carnap). [We know these influences come from Pitts](https://en.wikipedia.org/wiki/Walter_Pitts#Academic_career).
+
+At this point I will point out some links that were invaluable in figuring out what is going on notation-wise here (alongside the source material already linked above):
+- [Stanford Encyclopedia of Philosophy's article on Principia Mathematica Notation](https://plato.stanford.edu/entries/pm-notation)
+- [Stanford Encyclopedia of Philosophy's article on Logical Syntax of Language](https://plato.stanford.edu/entries/carnap/syntax.html)
+
+TODO
+
 ## 3. The Theory: Nets with Circles
 
 ## 4. Consequences
