@@ -197,7 +197,13 @@ At this point I will point out some links that were invaluable in figuring out w
 - [Stanford Encyclopedia of Philosophy's article on Principia Mathematica Notation](https://plato.stanford.edu/entries/pm-notation)
 - [Stanford Encyclopedia of Philosophy's article on Logical Syntax of Language](https://plato.stanford.edu/entries/carnap/syntax.html)
 
-TODO
+The formulation by McCulloch and Pitts here is so notoriously hard to follow that even [Kleene]() decided [to reformulate everything](https://www.rand.org/content/dam/rand/pubs/research_memoranda/2008/RM704.pdf) when researching the subject (taken from [Mikel Forcada's abandoned book project](https://www.dlsi.ua.es/~mlf/nnafmc/pbook/node10.html)):
+
+> The present memorandum is partly an exposition of the McCulloch-Pitts results; but we found the part of their paper which treats of arbitrary nets obscure; so we have proceeded independently here. 
+
+> This apparent counterexample discouraged us from further attempts to decipher Part III of McCulloch-Pitts 1943.
+
+
 
 ## 3. The Theory: Nets with Circles
 
